@@ -1,0 +1,105 @@
+File Manifest for ICPSR 37202
+
+Curtin, Richard T., and Paul D. (Paul Davidson) Reynolds. Panel Study of
+Entrepreneurial Dynamics, PSED II, United States, 2005-2011. ICPSR37202-v1.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2018-11-28. http://doi.org/10.3886/ICPSR37202.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37202-descriptioncitation.pdf       -       -         -       2021-02-11  -
+
+    37202-related_literature.txt        -       -         -       daily       -
+
+    37202-manifest.txt                  -       -         -       daily       -
+
+    37202-Questionnaire-screener.pdf    -       -         -       2018-11-28  43eae59da7c2ebdf08b72f793680d0b7
+
+
+DS0001 Screener Data, Public-Use
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37202-0001-Codebook-screener_MULTI.pdf -       -         -       2018-11-28  d927140f8021be80478ea89889c2e770
+
+    37202-0001-Codebook.pdf             -       -         -       2018-11-28  932a28117c90eb7a67de98f1a0203483
+
+    37202-0001-Data.dta                 -       31,845    58      2018-11-28  70515654f41f4836fac512a6d91f72f3
+
+    37202-0001-Data.rda                 -       31,845    58      2018-11-28  04f2d02309a0f9ffef823507bfab985b
+
+    37202-0001-Data.sav                 -       31,845    58      2018-11-28  c060eb66b07506f6eeee23fa5ca60e7c
+
+    37202-0001-Data.stc                 -       31,845    58      2018-11-28  94522d28896a86cf02728eb4ee68cb05
+
+    37202-0001-Data.tsv                 -       31,845    58      2018-11-28  bed27f4d30de9c03ae20e98e0a5c5947
+
+    37202-0001-Data.txt                 199     31,845    58      2018-11-28  4bc8f20f6417df31d42af09365c33ec3
+
+    37202-0001-Setup.dct                -       -         -       2018-11-28  6a4cd09ed644c91b7a6139721389e363
+
+    37202-0001-Setup.do                 -       -         -       2018-11-28  0eb29f058fc2fb58445ed2e1d26d63ae
+
+    37202-0001-Setup.sas                -       -         -       2018-11-28  6a12462b81181b8742914a7ea933acca
+
+    37202-0001-Setup.sps                -       -         -       2018-11-28  4b415b606415fa5ee99c17fb55d89d90
+
+
+DS0002 Screener Data, Restricted-Use
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37202-0002-Codebook-screener_MULTI.pdf -       -         -       2018-11-28  d927140f8021be80478ea89889c2e770
+
+
+DS0003 Waves A-F plus Screener Data, Public-Use
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37202-0003-Codebook-waves_MULTI.pdf -       -         -       2018-11-28  e4f779404df248f1703812f6de8976a1
+
+    37202-0003-Codebook.pdf             -       -         -       2018-11-28  c6c9a36493cc4bfc55a0ca5217ebf981
+
+    37202-0003-Data.dta                 -       1,214     7821    2018-11-28  98aeda8096460924e0c287a895c7cb44
+
+    37202-0003-Data.rda                 -       1,214     7821    2018-11-28  01913f6689ca06c387931e25de77db3e
+
+    37202-0003-Data.sav                 -       1,214     7821    2018-11-28  42660e4833503db6207b01a0c4d9be8c
+
+    37202-0003-Data.stc                 -       1,214     7821    2018-11-28  b625a573053ca849a28558d3af5b3b28
+
+    37202-0003-Data.tsv                 -       1,214     7821    2018-11-28  ed86ab586ce9c3946c1d48c113ef03e0
+
+    37202-0003-Data.txt                 19496   1,214     7821    2018-11-28  67d21230e22741bcf199151cb7d99a4e
+
+    37202-0003-Questionnaire-waves_MULTI.pdf -       -         -       2018-11-28  e6b75d69324e238992cb612c16f64ae8
+
+    37202-0003-Setup.dct                -       -         -       2018-11-28  ff6906aff392d19b53858312e5fccda1
+
+    37202-0003-Setup.do                 -       -         -       2018-11-28  5d27b62a11301941aecf43e3b913f63d
+
+    37202-0003-Setup.sas                -       -         -       2018-11-28  f2782d59f4ba3efb10bcc7e131299598
+
+    37202-0003-Setup.sps                -       -         -       2018-11-28  cd59eb408bf8aa5f46d5121b24ef6f98
+
+    37202-0003-Supplemental_syntax.do   -       -         -       2018-11-28  7b469a120f6521e49cda78dd98f28e42
+
+    37202-0003-Supplemental_syntax.sas  -       -         -       2018-11-28  d62afb78cd46c86086ba0b3a3b90d657
+
+
+DS0004 Waves A-F plus Screener Data, Restricted-Use
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37202-0004-Codebook-waves_MULTI.pdf -       -         -       2018-11-28  e4f779404df248f1703812f6de8976a1
+
+    37202-0004-Questionnaire-waves_MULTI.pdf -       -         -       2018-11-28  e6b75d69324e238992cb612c16f64ae8
+

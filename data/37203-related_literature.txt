@@ -1,0 +1,27 @@
+Bibliography
+Panel Study of Entrepreneurial Dynamics, PSED I, United States, 1998-2004
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37203. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Reynolds, Paul Davidson, "Erratum to: When is a firm born? Alternative
+criteria and consequences." Business Economics. Jan 2017, 52, (1), 81 - 83.
+DOI: 10.1057/s11369-017-0032-6
+
+2. Reynolds, Paul Davidson, "When is a firm born? Alternative criteria and
+consequences." Business Economics. Jan 2017, 52, (1), 41 - 56. DOI:
+10.1057/s11369-017-0022-8
+
+3. Robbins, Rebecca; Quan, Stuart F.; Barger, Laura K.; Czeisler, Charles
+A.; Fray-Witzer, Maya; Weaver, Matthew D.; Zhang, Ying; Redline, Susan;
+Klerman, Elizabeth B., "Self-reported sleep duration and timing: A
+methodological review of event definitions, context, and timeframe of
+related questions." Sleep Epidemiology. Dec 2021, 1, (100016),. DOI:
+10.1016/j.sleepe.2021.100016
