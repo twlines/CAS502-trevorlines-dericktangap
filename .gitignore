@@ -1,6 +1,4 @@
-# Data directory (raw and processed data)
-data/*
-!data/README.md
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
